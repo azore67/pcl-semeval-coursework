@@ -1,0 +1,4 @@
+
+# Ignore saved model weights (too large for GitHub)
+BestModel/model/
+BestModel/checkpoints/
