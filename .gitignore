@@ -6,3 +6,7 @@ BestModel/checkpoints/
 # Ignore large artifacts
 BestModel/model/
 BestModel/checkpoints/
+
+# Ignore large artifacts
+BestModel/model/
+BestModel/checkpoints/
