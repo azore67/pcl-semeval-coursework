@@ -2,3 +2,7 @@
 # Ignore saved model weights (too large for GitHub)
 BestModel/model/
 BestModel/checkpoints/
+
+# Ignore large artifacts
+BestModel/model/
+BestModel/checkpoints/
